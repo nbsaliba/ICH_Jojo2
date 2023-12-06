@@ -386,7 +386,7 @@
         "name": "TopBar",
         "cfg": {
           "toolbarItems": [
-            {"key": "Help", "icon": "info", "shortcut": "alt+shift+h"}
+
           ]
         }
       }
@@ -412,7 +412,6 @@
           "toolbarItems": [
 
 
-            {"key": "Help", "icon": "info", "shortcut": "alt+shift+h"}
           ]
         }
       }
