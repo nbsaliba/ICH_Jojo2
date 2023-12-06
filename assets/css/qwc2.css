@@ -1,3 +1,8 @@
+div.AppMenu .appmenu-label {
+    font-weight: bold;
+color: transparent;
+    transition: color 0.25s;
+}
 
 div.identify-body div.identify-results-container {
     overflow-y: auto;
